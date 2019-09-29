@@ -1,4 +1,4 @@
-<h3>Задание</h3>
+<h3>Задача</h3>
 
 <ul>
     <li>Создать сайт из двух страниц</li>
@@ -7,7 +7,12 @@
 (например USD) на указанную дату (по api Центробанка https://www.cbr.ru/development/)</li>
 </ul>
 
-<a target="_blank" href="http://p50477n7.beget.tech">Демонстрация работы созданого сайта</a>
+<h3>Решение</h3>
+
+<ul>
+    <li>Используется фреймворк Laravel 6</li>
+    <li><a target="_blank" href="http://p50477n7.beget.tech">Демоверсия работы сайта</a></li>
+</ul>
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
