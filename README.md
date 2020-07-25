@@ -11,7 +11,7 @@
 
 <ul>
     <li>Используется фреймворк Laravel 6</li>
-    <li><a target="_blank" href="https://galliambic-shapes.000webhostapp.com/">Демо-версия работы сайта</a></li>
+    <!--<li><a target="_blank" href="https://galliambic-shapes.000webhostapp.com/">Демо-версия работы сайта</a></li>-->
 </ul>
 
 
