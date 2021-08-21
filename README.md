@@ -11,7 +11,7 @@
 
 <ul>
     <li>Используется фреймворк Laravel 6</li>
-    <li><a target="_blank" href="https://test1.techvit.ru/">Демо-версия работы сайта</a></li>
+    <li><a href="https://test1.techvit.ru/" target="_blank">Демо-версия работы сайта</a></li>
 </ul>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
