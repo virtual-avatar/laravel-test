@@ -1,3 +1,8 @@
+<ul>
+    <li>Используется фреймворк Laravel 6</li>
+    <li><a target="_blank" href="https://test1.techvit.ru/">Демо-версия работы сайта</a></li>
+</ul>
+
 <h3>Задача</h3>
 
 <ul>
